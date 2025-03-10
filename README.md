@@ -16,6 +16,7 @@ https://github.com/M-Lenvik
 6. [Examinerade områden](#examinerade-områden)
    1. [För G](#för-g)
    2. [För VG](#för-vg)
+   2. [Slutbetyg](#slutbetyg)
 7. [Skärmdumpar och validering](#skärmdumpar-och-validering)
    1. [Skärmdumpar på sidan](#skärmdumpar-på-sidan)
    2. [HTML validering](#html-validering)
@@ -159,6 +160,9 @@ Sidan är tillgänglig. <br>
 Ni håller er till tidsramarna och gör prioriteringar utifrån tidsåtgång och viktighet <br>
 Arbetet är självständigt (det betyder absolut inte att man inte ber om hjälp, men du ska också själv ha tänkt till och kan föra ett resonemang kring kod) <br>
 Det är ingen swenglish i koden; variabler, attribut, funktioner, etc. är konsekvent namngivna <br>
+
+## Slutbetyg
+![Betyg Javascript webbshop](https://github.com/user-attachments/assets/5653bc31-22c4-42a6-bdf3-1452255ad02a)
 
 
 ## Skärmdumpar och validering
