@@ -1,4 +1,5 @@
 # Kurs: Javascript grundkurs
+## Utbildning till Frontend developer på Medieinstitutet
 Detta är den första javascripsida jag gjort. Se uppgiftsbeskrivning nedan.
 
 Skapad av **Marie Lenvik** <br>
@@ -25,7 +26,7 @@ https://github.com/M-Lenvik
 
 
 ## Beskrivning av sidan
-<p>Uppgiften var att skapa en webbshop. Utförlig uppgiftsbeskringvning finns längr ned. Titta gärna på sidan live, men här kommer ett smakprov på hur den ser ut. <br>
+<p>Uppgiften var att skapa en webbshop på fyra veckor. Utförlig uppgiftsbeskringvning finns längr ned. Titta gärna på sidan live, men här kommer ett smakprov på hur den ser ut. <br>
 Webbsidan: https://m-lenvik.github.io/First-javascript-project-webshop/ </p>
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/e969b81f-21d0-436e-94b1-74ef0da955c7" />
 
